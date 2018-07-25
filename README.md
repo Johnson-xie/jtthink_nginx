@@ -13,7 +13,6 @@ DIRECTORY STRUCTURE
 ```
 /
     courseware/         课件
-        cache/          缓存篇
     CATALOG.md          整理目录
     README.md           readme.md
 ```
