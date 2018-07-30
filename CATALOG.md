@@ -15,3 +15,9 @@
 
 ### [第3讲:Location匹配、root和alias、静态资源的访问](http://www.jtthink.com/course/play/1333)
 * 今天我们来说一下匹配规则以及一些细节技巧
+
+### [第4讲:Nginx正向代理入门 、利用代理访问容器网站](http://www.jtthink.com/course/play/1334)
+* 今天我们来了解下nginx的代理模块，先从正向代理开始
+
+### [第5讲:Nginx反向代理 入门(1) :最简单的配置](http://www.jtthink.com/course/play/1344)
+* 学了正向代理，后面几课时我们开始逐步对反向代理和常用姿势进行入门
