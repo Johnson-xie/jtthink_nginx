@@ -21,3 +21,6 @@
 
 ### [第5讲:Nginx反向代理 入门(1) :最简单的配置](http://www.jtthink.com/course/play/1344)
 * 学了正向代理，后面几课时我们开始逐步对反向代理和常用姿势进行入门
+
+### [第6讲:反向代理入门(2) :proxy_set_header、代理多个网站](http://www.jtthink.com/course/play/1345)
+* 今天我们来学习到proxy_set_header。多网站的代理简单配置
