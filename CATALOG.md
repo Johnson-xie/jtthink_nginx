@@ -24,3 +24,9 @@
 
 ### [第6讲:反向代理入门(2) :proxy_set_header、代理多个网站](http://www.jtthink.com/course/play/1345)
 * 今天我们来学习到proxy_set_header。多网站的代理简单配置
+
+### [第7讲:Nginx反向代理(3) : 加不加/ ?rewrite重写入门](http://www.jtthink.com/course/play/1348)
+* 今天我们学习到重要指令:rewrite重写
+
+### [第8讲:rewrite练习:"隐藏"文件下载路径](http://www.jtthink.com/course/play/1362)
+* 今天我们对rewrite指令进行练习，看下它还能实现哪些功能
